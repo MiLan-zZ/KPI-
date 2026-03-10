@@ -8,7 +8,7 @@ import pandas as pd
 
 # 初始化Dash应用
 app = dash.Dash(__name__, title="全渠道零售智能KPI监控系统")
-server = app.server  # 部署用（可选）
+server = app.server  # 部署用
 
 # 加载所有指标和数据（增加空数据处理）
 try:
@@ -48,36 +48,36 @@ except Exception as e:
     })
     orders = pd.DataFrame({'channel': ['无数据'], 'revenue': [0]})
 
-# --------------------- 页面布局（核心优化：固定高度+溢出滚动） ---------------------
+# --------------------- 页面布局 ---------------------
 app.layout = html.Div(
     style={
         'font-family': 'Arial, sans-serif',
         'padding': '20px',
         'background-color': '#f5f5f5',
-        'max-width': '1400px',  # 限制页面最大宽度，避免溢出
-        'margin': '0 auto',  # 居中显示
-        'overflow': 'hidden'  # 禁止页面整体溢出
+        'max-width': '1400px',  
+        'margin': '0 auto',  
+        'overflow': 'hidden'  
     },
     children=[
         # 标题
         html.H1("全渠道零售智能KPI监控与分析系统",
                 style={'text-align': 'center', 'color': '#2c3e50', 'margin-bottom': '30px'}),
 
-        # 第一行：核心交易指标卡片（固定高度）
+        # 第一行：核心交易指标卡片
         html.Div(
             style={
                 'display': 'grid',
-                'grid-template-columns': 'repeat(auto-fit, minmax(200px, 1fr))',  # 自适应列数
+                'grid-template-columns': 'repeat(auto-fit, minmax(200px, 1fr))',  
                 'gap': '20px',
                 'margin': '30px 0',
-                'max-height': '300px',  # 固定最大高度
-                'overflow-y': 'auto'  # 超出则滚动，不拉伸
+                'max-height': '300px', 
+                'overflow-y': 'auto'  
             },
             children=[
                 # GMV卡片
                 html.Div(
                     style={'background': 'white', 'padding': '20px', 'border-radius': '8px',
-                           'box-shadow': '0 2px 4px rgba(0,0,0,0.1)', 'height': '180px'},  # 固定卡片高度
+                           'box-shadow': '0 2px 4px rgba(0,0,0,0.1)', 'height': '180px'},  
                     children=[
                         html.H3("GMV（成交总额）", style={'color': '#3498db', 'margin': '0 0 10px 0'}),
                         html.P(f"{all_metrics['基础交易指标']['GMV(元)']:,} 元",
@@ -137,17 +137,17 @@ app.layout = html.Div(
             ]
         ),
 
-        # 第二行：活动ROI+CAC + 库龄结构（固定高度）
+        # 第二行：活动ROI+CAC + 库龄结构
         html.Div(
             style={
                 'display': 'grid',
                 'grid-template-columns': '1fr 1fr',
                 'gap': '20px',
                 'margin': '30px 0',
-                'max-height': '400px'  # 固定最大高度
+                'max-height': '400px'  #
             },
             children=[
-                # 活动ROI&CAC（固定高度+溢出滚动）
+                # 活动ROI&CAC
                 html.Div(
                     style={'background': 'white', 'padding': '20px', 'border-radius': '8px',
                            'box-shadow': '0 2px 4px rgba(0,0,0,0.1)', 'height': '380px',
@@ -196,7 +196,7 @@ app.layout = html.Div(
             ]
         ),
 
-        # 第三行：RFM分析表格 + RFM分布柱状图（固定高度）
+        # 第三行：RFM分析表格 + RFM分布柱状图
         html.Div(
             style={
                 'display': 'grid',
@@ -206,7 +206,7 @@ app.layout = html.Div(
                 'max-height': '500px'
             },
             children=[
-                # RFM分析表格（固定高度+溢出滚动）
+                # RFM分析表格
                 html.Div(
                     style={'background': 'white', 'padding': '20px', 'border-radius': '8px',
                            'box-shadow': '0 2px 4px rgba(0,0,0,0.1)', 'height': '480px',
@@ -216,13 +216,13 @@ app.layout = html.Div(
                         dash_table.DataTable(
                             data=rfm_result.head(20).to_dict('records'),
                             columns=[{'name': col, 'id': col} for col in rfm_result.columns],
-                            style_table={'overflowX': 'auto', 'height': '380px'},  # 固定表格高度
+                            style_table={'overflowX': 'auto', 'height': '380px'},  
                             style_cell={'padding': '8px', 'font-size': '12px'},
                             style_header={'backgroundColor': '#3498db', 'color': 'white', 'font-weight': 'bold'}
                         )
                     ]
                 ),
-                # RFM评分分布（固定图表高度）
+                # RFM评分分布
                 html.Div(
                     style={'background': 'white', 'padding': '20px', 'border-radius': '8px',
                            'box-shadow': '0 2px 4px rgba(0,0,0,0.1)', 'height': '480px'},
@@ -250,11 +250,11 @@ app.layout = html.Div(
             ]
         ),
 
-        # 第四行：销售渠道分布（固定高度）
+        # 第四行：销售渠道分布
         html.Div(
             style={'background': 'white', 'padding': '20px', 'border-radius': '8px',
                    'box-shadow': '0 2px 4px rgba(0,0,0,0.1)', 'margin': '30px 0',
-                   'height': '400px'},  # 固定高度
+                   'height': '400px'},  
             children=[
                 html.H3("销售渠道分布", style={'color': '#2c3e50', 'margin-top': 0}),
                 dcc.Graph(
@@ -272,7 +272,7 @@ app.layout = html.Div(
                             '无数据': '#95a5a6'
                         }
                     ),
-                    style={'height': '320px'}  # 固定图表高度
+                    style={'height': '320px'} 
                 )
             ]
         )
@@ -281,4 +281,5 @@ app.layout = html.Div(
 
 # 运行应用（关闭debug的热重载，避免样式异常）
 if __name__ == '__main__':
-    app.run(debug=False, port=8050)  # 重点：debug=False，热重载会导致布局异常
+
+    app.run(debug=False, port=8050)  
