@@ -112,25 +112,25 @@ def rfm_analysis(orders):
     return z_rfm, rfm_scores  # 返回RFM结果供Dash使用
 
 
-# --------------------- 新增：基础交易指标（GMV、销售收入、净利润等） ---------------------
+# --------------------- 基础交易指标（GMV、销售收入、净利润等） ---------------------
 def calculate_basic_trade_metrics(orders):
     """计算GMV、销售收入、净利润、利润率、客单价"""
     orders['order_date'] = pd.to_datetime(orders['order_date'])
 
-    # 1. GMV（成交总额：未扣除优惠券的总金额）
+    # GMV（成交总额：未扣除优惠券的总金额）
     orders['gmv_single'] = orders['quantity'] * orders['selling_price']
     gmv_total = orders['gmv_single'].sum()
 
-    # 2. 销售收入（扣除优惠券后的实际收入）
+    #  销售收入（扣除优惠券后的实际收入）
     revenue_total = orders['revenue'].sum()
 
-    # 3. 净利润（造数中已计算单订单利润：profit = revenue - quantity*cost_price）
+    # 净利润（造数中已计算单订单利润：profit = revenue - quantity*cost_price）
     profit_total = orders['profit'].sum()
 
-    # 4. 利润率（净利润/销售收入 * 100%）
+    #  利润率（净利润/销售收入 * 100%）
     profit_margin = (profit_total / revenue_total * 100) if revenue_total != 0 else 0
 
-    # 5. 客单价（销售收入 / 下单用户数）
+    # 客单价（销售收入 / 下单用户数）
     pay_users = orders['customer_id'].nunique()
     avg_order_value = revenue_total / pay_users if pay_users != 0 else 0
 
@@ -145,7 +145,7 @@ def calculate_basic_trade_metrics(orders):
     return metrics
 
 
-# --------------------- 新增：活动ROI & CAC计算 ---------------------
+# --------------------- 活动ROI & CAC计算 ---------------------
 def calculate_campaign_roi_cac(orders, campaigns, customers):
     """计算活动ROI（增量利润/活动成本）、CAC（用户获取成本）"""
     # 数据预处理
@@ -154,10 +154,10 @@ def calculate_campaign_roi_cac(orders, campaigns, customers):
     campaigns['end_date'] = pd.to_datetime(campaigns['end_date'])
     customers['registration_date'] = pd.to_datetime(customers['registration_date'])
 
-    # 1. 筛选活动期间订单
+    # 筛选活动期间订单
     campaign_orders = filter_orders_by_campaign(orders, campaigns)
 
-    # 2. 识别新增客户（活动期间首次消费的客户）
+    # 识别新增客户（活动期间首次消费的客户）
     # 所有订单的用户首次消费时间
     first_order_time = orders.groupby('customer_id')['order_date'].min().reset_index(name='first_order')
     # 活动时间范围
@@ -169,17 +169,17 @@ def calculate_campaign_roi_cac(orders, campaigns, customers):
         (first_order_time['first_order'] <= all_campaign_end)
         ]['customer_id'].tolist()
 
-    # 3. 活动增量利润（仅新增客户在活动期间产生的利润）
+    #  活动增量利润（仅新增客户在活动期间产生的利润）
     new_customer_campaign_orders = campaign_orders[campaign_orders['customer_id'].isin(new_customers)]
     incremental_profit = new_customer_campaign_orders['profit'].sum()
 
-    # 4. 活动总成本（所有活动预算总和）
+    #  活动总成本（所有活动预算总和）
     total_campaign_cost = campaigns['budget'].sum()
 
-    # 5. 活动ROI
+    #  活动ROI
     roi = (incremental_profit / total_campaign_cost) if total_campaign_cost != 0 else 0
 
-    # 6. CAC（用户获取成本 = 活动总成本 / 新增客户数）
+    #  CAC（用户获取成本 = 活动总成本 / 新增客户数）
     new_customer_count = len(new_customers)
     cac = (total_campaign_cost / new_customer_count) if new_customer_count != 0 else 0
 
@@ -193,14 +193,14 @@ def calculate_campaign_roi_cac(orders, campaigns, customers):
     return metrics
 
 
-# --------------------- 新增：库存周转率计算 ---------------------
+# --------------------- 库存周转率计算 ---------------------
 def calculate_inventory_turnover(orders, inventory, products):
     """计算库存周转率 = 销售成本(COGS) / 平均库存价值"""
-    # 1. 计算销售成本（COGS：已售商品的进货成本总和）
+    #  计算销售成本（COGS：已售商品的进货成本总和）
     orders['cogs_single'] = orders['quantity'] * orders['cost_price']
     total_cogs = orders['cogs_single'].sum()
 
-    # 2. 计算平均库存价值
+    #  计算平均库存价值
     # 库存表关联商品成本价
     inventory['last_restock_date'] = pd.to_datetime(inventory['last_restock_date'])
     inventory_with_cost = inventory.merge(
@@ -213,7 +213,7 @@ def calculate_inventory_turnover(orders, inventory, products):
     # 平均库存价值（简化：用当前库存价值作为平均，实际应取期初+期末/2）
     avg_stock_value = inventory_with_cost['stock_value'].mean()
 
-    # 3. 库存周转率
+    #  库存周转率
     turnover_rate = (total_cogs / avg_stock_value) if avg_stock_value != 0 else 0
 
     metrics = {
@@ -224,7 +224,7 @@ def calculate_inventory_turnover(orders, inventory, products):
     return metrics
 
 
-# --------------------- 新增：库龄结构计算 ---------------------
+# --------------------- 库龄结构计算 ---------------------
 def calculate_inventory_age_structure(inventory):
     """计算库龄结构：<30天、30-90天、>90天的库存数量占比"""
     # 数据预处理
@@ -304,4 +304,5 @@ if __name__ == '__main__':
             for k, v in metrics.items():
                 print(f"{k}: {v}")
         print(f"\n【RFM分析结果（前5行）】")
+
         print(rfm_result.head())
