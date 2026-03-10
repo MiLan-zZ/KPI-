@@ -1,0 +1,201 @@
+product_id,product_name,category,brand,cost_price,selling_price
+P00000,Brand_E Clothin 0,Clothing,Brand_E,99.88,182.16
+P00001,Brand_B Home & Kitche 1,Home & Kitchen,Brand_B,86.44,107.74
+P00002,Brand_D Book 2,Books,Brand_D,80.0,137.66
+P00003,Brand_D Electronic 3,Electronics,Brand_D,469.89,564.16
+P00004,Brand_A Beaut 4,Beauty,Brand_A,159.08,257.68
+P00005,Brand_A Clothin 5,Clothing,Brand_A,267.14,406.02
+P00006,Brand_D Electronic 6,Electronics,Brand_D,189.52,296.57
+P00007,Brand_C Book 7,Books,Brand_C,197.41,392.17
+P00008,Brand_E Clothin 8,Clothing,Brand_E,307.7,411.22
+P00009,Brand_D Electronic 9,Electronics,Brand_D,471.68,778.57
+P00010,Brand_B Clothin 10,Clothing,Brand_B,57.86,101.1
+P00011,Brand_D Clothin 11,Clothing,Brand_D,252.64,310.12
+P00012,Brand_D Beaut 12,Beauty,Brand_D,99.3,179.17
+P00013,Brand_B Clothin 13,Clothing,Brand_B,288.17,353.02
+P00014,Brand_D Book 14,Books,Brand_D,470.35,901.13
+P00015,Brand_D Home & Kitche 15,Home & Kitchen,Brand_D,32.16,46.96
+P00016,Brand_B Clothin 16,Clothing,Brand_B,274.45,458.17
+P00017,Brand_D Beaut 17,Beauty,Brand_D,275.92,362.21
+P00018,Brand_A Book 18,Books,Brand_A,17.66,27.17
+P00019,Brand_C Clothin 19,Clothing,Brand_C,107.43,190.05
+P00020,Brand_C Book 20,Books,Brand_C,46.28,68.81
+P00021,Brand_A Electronic 21,Electronics,Brand_A,315.42,462.0
+P00022,Brand_E Electronic 22,Electronics,Brand_E,367.51,628.46
+P00023,Brand_A Book 23,Books,Brand_A,197.63,390.79
+P00024,Brand_E Book 24,Books,Brand_E,285.03,517.84
+P00025,Brand_A Clothin 25,Clothing,Brand_A,358.22,461.64
+P00026,Brand_C Clothin 26,Clothing,Brand_C,25.4,43.41
+P00027,Brand_D Clothin 27,Clothing,Brand_D,454.71,636.34
+P00028,Brand_C Clothin 28,Clothing,Brand_C,109.5,213.99
+P00029,Brand_C Home & Kitche 29,Home & Kitchen,Brand_C,89.0,172.99
+P00030,Brand_A Book 30,Books,Brand_A,61.69,96.56
+P00031,Brand_D Clothin 31,Clothing,Brand_D,447.35,729.84
+P00032,Brand_D Book 32,Books,Brand_D,184.59,355.42
+P00033,Brand_C Clothin 33,Clothing,Brand_C,219.28,406.64
+P00034,Brand_C Book 34,Books,Brand_C,214.53,295.56
+P00035,Brand_D Electronic 35,Electronics,Brand_D,129.62,173.0
+P00036,Brand_A Clothin 36,Clothing,Brand_A,207.88,260.25
+P00037,Brand_D Clothin 37,Clothing,Brand_D,133.37,213.1
+P00038,Brand_A Clothin 38,Clothing,Brand_A,498.89,705.14
+P00039,Brand_D Beaut 39,Beauty,Brand_D,35.22,50.12
+P00040,Brand_C Beaut 40,Beauty,Brand_C,343.55,558.18
+P00041,Brand_D Clothin 41,Clothing,Brand_D,49.62,74.22
+P00042,Brand_E Clothin 42,Clothing,Brand_E,319.83,545.89
+P00043,Brand_A Home & Kitche 43,Home & Kitchen,Brand_A,83.85,134.71
+P00044,Brand_C Home & Kitche 44,Home & Kitchen,Brand_C,299.54,521.81
+P00045,Brand_C Electronic 45,Electronics,Brand_C,406.66,601.42
+P00046,Brand_A Electronic 46,Electronics,Brand_A,348.56,526.11
+P00047,Brand_A Beaut 47,Beauty,Brand_A,341.09,609.93
+P00048,Brand_B Clothin 48,Clothing,Brand_B,136.39,235.68
+P00049,Brand_A Book 49,Books,Brand_A,263.15,370.69
+P00050,Brand_D Beaut 50,Beauty,Brand_D,283.56,540.5
+P00051,Brand_A Electronic 51,Electronics,Brand_A,181.11,322.51
+P00052,Brand_A Book 52,Books,Brand_A,324.6,411.37
+P00053,Brand_D Electronic 53,Electronics,Brand_D,294.54,441.17
+P00054,Brand_A Beaut 54,Beauty,Brand_A,12.48,16.58
+P00055,Brand_C Home & Kitche 55,Home & Kitchen,Brand_C,329.46,454.46
+P00056,Brand_A Home & Kitche 56,Home & Kitchen,Brand_A,252.01,338.46
+P00057,Brand_C Clothin 57,Clothing,Brand_C,332.23,549.72
+P00058,Brand_C Electronic 58,Electronics,Brand_C,321.8,450.64
+P00059,Brand_E Home & Kitche 59,Home & Kitchen,Brand_E,248.5,478.33
+P00060,Brand_E Clothin 60,Clothing,Brand_E,256.29,425.83
+P00061,Brand_E Clothin 61,Clothing,Brand_E,122.79,196.38
+P00062,Brand_A Home & Kitche 62,Home & Kitchen,Brand_A,31.37,62.6
+P00063,Brand_E Clothin 63,Clothing,Brand_E,442.91,796.43
+P00064,Brand_E Beaut 64,Beauty,Brand_E,219.81,433.76
+P00065,Brand_A Beaut 65,Beauty,Brand_A,46.92,67.78
+P00066,Brand_A Electronic 66,Electronics,Brand_A,165.29,220.76
+P00067,Brand_B Home & Kitche 67,Home & Kitchen,Brand_B,465.71,585.09
+P00068,Brand_B Clothin 68,Clothing,Brand_B,134.54,193.23
+P00069,Brand_A Clothin 69,Clothing,Brand_A,76.94,135.96
+P00070,Brand_B Home & Kitche 70,Home & Kitchen,Brand_B,406.59,751.42
+P00071,Brand_E Book 71,Books,Brand_E,49.98,60.18
+P00072,Brand_D Home & Kitche 72,Home & Kitchen,Brand_D,328.48,578.64
+P00073,Brand_D Book 73,Books,Brand_D,444.44,543.15
+P00074,Brand_C Home & Kitche 74,Home & Kitchen,Brand_C,238.14,389.15
+P00075,Brand_B Clothin 75,Clothing,Brand_B,431.6,604.33
+P00076,Brand_C Electronic 76,Electronics,Brand_C,72.26,116.9
+P00077,Brand_D Book 77,Books,Brand_D,482.97,756.24
+P00078,Brand_D Book 78,Books,Brand_D,211.56,372.26
+P00079,Brand_E Electronic 79,Electronics,Brand_E,485.07,859.39
+P00080,Brand_C Electronic 80,Electronics,Brand_C,225.1,284.25
+P00081,Brand_E Electronic 81,Electronics,Brand_E,49.63,76.56
+P00082,Brand_A Home & Kitche 82,Home & Kitchen,Brand_A,94.91,125.77
+P00083,Brand_A Clothin 83,Clothing,Brand_A,333.5,474.89
+P00084,Brand_E Beaut 84,Beauty,Brand_E,309.74,475.66
+P00085,Brand_C Clothin 85,Clothing,Brand_C,381.34,462.0
+P00086,Brand_E Electronic 86,Electronics,Brand_E,56.14,81.35
+P00087,Brand_E Beaut 87,Beauty,Brand_E,242.35,309.79
+P00088,Brand_D Clothin 88,Clothing,Brand_D,94.87,146.77
+P00089,Brand_B Clothin 89,Clothing,Brand_B,475.08,907.09
+P00090,Brand_B Clothin 90,Clothing,Brand_B,316.67,507.47
+P00091,Brand_E Book 91,Books,Brand_E,345.14,584.21
+P00092,Brand_B Beaut 92,Beauty,Brand_B,22.99,38.36
+P00093,Brand_D Beaut 93,Beauty,Brand_D,200.2,343.27
+P00094,Brand_C Clothin 94,Clothing,Brand_C,412.11,700.9
+P00095,Brand_B Book 95,Books,Brand_B,111.28,157.93
+P00096,Brand_B Clothin 96,Clothing,Brand_B,29.09,49.3
+P00097,Brand_B Clothin 97,Clothing,Brand_B,166.3,311.96
+P00098,Brand_B Electronic 98,Electronics,Brand_B,137.74,219.95
+P00099,Brand_B Home & Kitche 99,Home & Kitchen,Brand_B,318.18,605.17
+P00100,Brand_E Home & Kitche 100,Home & Kitchen,Brand_E,484.11,793.15
+P00101,Brand_C Clothin 101,Clothing,Brand_C,495.35,757.93
+P00102,Brand_E Clothin 102,Clothing,Brand_E,126.91,221.32
+P00103,Brand_C Home & Kitche 103,Home & Kitchen,Brand_C,60.53,116.34
+P00104,Brand_A Home & Kitche 104,Home & Kitchen,Brand_A,166.82,319.7
+P00105,Brand_D Clothin 105,Clothing,Brand_D,479.69,900.72
+P00106,Brand_D Clothin 106,Clothing,Brand_D,475.53,932.27
+P00107,Brand_E Home & Kitche 107,Home & Kitchen,Brand_E,54.94,92.41
+P00108,Brand_E Home & Kitche 108,Home & Kitchen,Brand_E,378.66,694.18
+P00109,Brand_E Book 109,Books,Brand_E,466.16,922.72
+P00110,Brand_B Beaut 110,Beauty,Brand_B,226.35,432.37
+P00111,Brand_B Clothin 111,Clothing,Brand_B,484.64,848.33
+P00112,Brand_A Book 112,Books,Brand_A,59.55,75.47
+P00113,Brand_B Home & Kitche 113,Home & Kitchen,Brand_B,204.36,391.05
+P00114,Brand_E Electronic 114,Electronics,Brand_E,51.57,102.59
+P00115,Brand_A Clothin 115,Clothing,Brand_A,441.38,613.23
+P00116,Brand_E Beaut 116,Beauty,Brand_E,379.16,569.12
+P00117,Brand_E Electronic 117,Electronics,Brand_E,195.21,344.36
+P00118,Brand_C Clothin 118,Clothing,Brand_C,64.49,102.8
+P00119,Brand_D Electronic 119,Electronics,Brand_D,290.02,519.94
+P00120,Brand_A Book 120,Books,Brand_A,374.66,653.72
+P00121,Brand_A Clothin 121,Clothing,Brand_A,193.69,276.7
+P00122,Brand_E Book 122,Books,Brand_E,481.98,583.06
+P00123,Brand_E Beaut 123,Beauty,Brand_E,168.12,207.58
+P00124,Brand_D Beaut 124,Beauty,Brand_D,46.16,75.84
+P00125,Brand_B Beaut 125,Beauty,Brand_B,91.45,125.6
+P00126,Brand_A Clothin 126,Clothing,Brand_A,317.5,529.42
+P00127,Brand_A Beaut 127,Beauty,Brand_A,458.47,901.79
+P00128,Brand_D Electronic 128,Electronics,Brand_D,62.31,91.5
+P00129,Brand_D Electronic 129,Electronics,Brand_D,237.21,351.71
+P00130,Brand_D Home & Kitche 130,Home & Kitchen,Brand_D,186.57,262.68
+P00131,Brand_A Clothin 131,Clothing,Brand_A,147.08,224.88
+P00132,Brand_E Home & Kitche 132,Home & Kitchen,Brand_E,75.26,94.9
+P00133,Brand_C Beaut 133,Beauty,Brand_C,365.6,618.13
+P00134,Brand_B Clothin 134,Clothing,Brand_B,280.28,373.3
+P00135,Brand_A Clothin 135,Clothing,Brand_A,245.38,487.87
+P00136,Brand_B Clothin 136,Clothing,Brand_B,196.64,388.55
+P00137,Brand_E Book 137,Books,Brand_E,41.12,50.56
+P00138,Brand_E Electronic 138,Electronics,Brand_E,37.62,71.17
+P00139,Brand_E Book 139,Books,Brand_E,498.35,819.46
+P00140,Brand_E Book 140,Books,Brand_E,380.97,572.32
+P00141,Brand_A Clothin 141,Clothing,Brand_A,73.29,143.89
+P00142,Brand_A Home & Kitche 142,Home & Kitchen,Brand_A,339.13,574.66
+P00143,Brand_B Clothin 143,Clothing,Brand_B,254.1,401.72
+P00144,Brand_B Book 144,Books,Brand_B,427.57,701.87
+P00145,Brand_C Home & Kitche 145,Home & Kitchen,Brand_C,207.71,271.52
+P00146,Brand_E Electronic 146,Electronics,Brand_E,313.95,553.58
+P00147,Brand_D Clothin 147,Clothing,Brand_D,490.43,827.1
+P00148,Brand_C Home & Kitche 148,Home & Kitchen,Brand_C,54.59,97.23
+P00149,Brand_A Home & Kitche 149,Home & Kitchen,Brand_A,393.99,597.78
+P00150,Brand_C Home & Kitche 150,Home & Kitchen,Brand_C,351.84,646.39
+P00151,Brand_A Clothin 151,Clothing,Brand_A,251.14,353.25
+P00152,Brand_B Clothin 152,Clothing,Brand_B,314.19,464.35
+P00153,Brand_C Clothin 153,Clothing,Brand_C,127.67,160.95
+P00154,Brand_C Electronic 154,Electronics,Brand_C,78.03,133.64
+P00155,Brand_A Electronic 155,Electronics,Brand_A,449.43,709.73
+P00156,Brand_B Home & Kitche 156,Home & Kitchen,Brand_B,304.95,420.55
+P00157,Brand_B Book 157,Books,Brand_B,146.51,196.56
+P00158,Brand_A Electronic 158,Electronics,Brand_A,271.87,403.67
+P00159,Brand_A Book 159,Books,Brand_A,256.67,449.77
+P00160,Brand_A Electronic 160,Electronics,Brand_A,245.76,430.14
+P00161,Brand_C Home & Kitche 161,Home & Kitchen,Brand_C,461.23,576.01
+P00162,Brand_A Clothin 162,Clothing,Brand_A,51.41,86.26
+P00163,Brand_B Beaut 163,Beauty,Brand_B,382.38,621.37
+P00164,Brand_B Home & Kitche 164,Home & Kitchen,Brand_B,27.97,39.21
+P00165,Brand_C Home & Kitche 165,Home & Kitchen,Brand_C,270.74,348.1
+P00166,Brand_C Clothin 166,Clothing,Brand_C,204.61,262.7
+P00167,Brand_D Home & Kitche 167,Home & Kitchen,Brand_D,19.83,28.91
+P00168,Brand_B Clothin 168,Clothing,Brand_B,272.31,377.58
+P00169,Brand_A Clothin 169,Clothing,Brand_A,342.76,627.71
+P00170,Brand_D Clothin 170,Clothing,Brand_D,273.18,456.07
+P00171,Brand_A Home & Kitche 171,Home & Kitchen,Brand_A,286.58,430.73
+P00172,Brand_D Clothin 172,Clothing,Brand_D,326.5,540.89
+P00173,Brand_E Clothin 173,Clothing,Brand_E,171.87,334.62
+P00174,Brand_E Electronic 174,Electronics,Brand_E,84.9,118.59
+P00175,Brand_C Electronic 175,Electronics,Brand_C,53.06,97.88
+P00176,Brand_A Electronic 176,Electronics,Brand_A,49.31,79.86
+P00177,Brand_D Clothin 177,Clothing,Brand_D,498.66,956.07
+P00178,Brand_C Home & Kitche 178,Home & Kitchen,Brand_C,434.1,804.67
+P00179,Brand_C Clothin 179,Clothing,Brand_C,412.22,731.59
+P00180,Brand_B Home & Kitche 180,Home & Kitchen,Brand_B,147.19,267.24
+P00181,Brand_D Electronic 181,Electronics,Brand_D,218.46,350.87
+P00182,Brand_A Clothin 182,Clothing,Brand_A,309.2,442.44
+P00183,Brand_C Home & Kitche 183,Home & Kitchen,Brand_C,466.69,679.74
+P00184,Brand_B Home & Kitche 184,Home & Kitchen,Brand_B,232.59,381.19
+P00185,Brand_B Home & Kitche 185,Home & Kitchen,Brand_B,167.95,310.35
+P00186,Brand_E Clothin 186,Clothing,Brand_E,11.33,14.65
+P00187,Brand_C Clothin 187,Clothing,Brand_C,180.95,351.7
+P00188,Brand_D Book 188,Books,Brand_D,210.17,409.06
+P00189,Brand_B Beaut 189,Beauty,Brand_B,98.8,123.82
+P00190,Brand_D Home & Kitche 190,Home & Kitchen,Brand_D,422.5,554.24
+P00191,Brand_D Book 191,Books,Brand_D,90.19,120.08
+P00192,Brand_C Book 192,Books,Brand_C,320.54,617.45
+P00193,Brand_B Clothin 193,Clothing,Brand_B,202.3,374.92
+P00194,Brand_C Clothin 194,Clothing,Brand_C,315.81,515.35
+P00195,Brand_A Clothin 195,Clothing,Brand_A,123.78,237.62
+P00196,Brand_E Clothin 196,Clothing,Brand_E,454.17,771.81
+P00197,Brand_C Electronic 197,Electronics,Brand_C,317.58,466.18
+P00198,Brand_E Electronic 198,Electronics,Brand_E,252.76,453.24
+P00199,Brand_E Home & Kitche 199,Home & Kitchen,Brand_E,84.32,122.21

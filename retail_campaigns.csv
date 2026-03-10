@@ -1,0 +1,6 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget
+CAM000,Spring Sale,WeChat Mini Program,2025-02-23,2025-03-02,15249
+CAM001,Summer Discount,Online,2025-03-03,2025-03-10,9225
+CAM002,Black Friday,Online,2025-05-16,2025-05-23,13833
+CAM003,Member Exclusive,Offline,2025-02-28,2025-03-07,14328
+CAM004,New User Welcome,Offline,2025-04-21,2025-04-28,10674

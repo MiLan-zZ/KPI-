@@ -1,0 +1,1001 @@
+customer_id,registration_channel,registration_date,membership_level,region
+C00000,Online,2025-08-20,Bronze,South
+C00001,Offline,2024-11-09,Gold,North
+C00002,Offline,2025-08-25,Silver,West
+C00003,Online,2025-06-08,Silver,Central
+C00004,Online,2025-04-10,Bronze,West
+C00005,Online,2025-03-14,Bronze,East
+C00006,WeChat Mini Program,2025-08-23,Silver,East
+C00007,Online,2025-04-01,Bronze,South
+C00008,Offline,2025-03-18,Bronze,South
+C00009,Offline,2025-06-10,Silver,South
+C00010,Online,2025-02-23,Silver,East
+C00011,Online,2025-08-24,Silver,South
+C00012,Online,2025-02-04,Bronze,North
+C00013,Offline,2024-12-25,Silver,North
+C00014,Offline,2025-07-29,Bronze,Central
+C00015,Online,2025-02-22,Bronze,North
+C00016,Online,2024-12-29,Bronze,Central
+C00017,WeChat Mini Program,2025-03-21,Bronze,North
+C00018,Online,2025-04-07,Bronze,West
+C00019,Online,2025-02-02,Gold,South
+C00020,WeChat Mini Program,2025-06-02,Bronze,East
+C00021,Online,2025-03-12,Bronze,West
+C00022,WeChat Mini Program,2025-05-02,Bronze,North
+C00023,WeChat Mini Program,2025-05-03,Bronze,North
+C00024,Online,2025-08-16,Silver,South
+C00025,Offline,2024-12-23,Bronze,West
+C00026,Online,2025-04-30,Silver,West
+C00027,WeChat Mini Program,2025-05-12,Bronze,North
+C00028,Online,2025-06-07,Bronze,East
+C00029,Offline,2024-12-06,Bronze,North
+C00030,Online,2025-08-17,Gold,East
+C00031,Offline,2025-07-19,Silver,South
+C00032,Offline,2025-02-25,Bronze,East
+C00033,WeChat Mini Program,2025-03-16,Bronze,Central
+C00034,WeChat Mini Program,2025-03-15,Bronze,South
+C00035,WeChat Mini Program,2025-04-15,Bronze,West
+C00036,Offline,2024-11-12,Bronze,East
+C00037,WeChat Mini Program,2025-07-17,Bronze,North
+C00038,WeChat Mini Program,2025-06-21,Bronze,North
+C00039,WeChat Mini Program,2025-07-26,Bronze,East
+C00040,Online,2025-05-05,Bronze,South
+C00041,WeChat Mini Program,2025-07-25,Silver,Central
+C00042,WeChat Mini Program,2025-02-24,Bronze,West
+C00043,Online,2025-05-11,Silver,North
+C00044,WeChat Mini Program,2025-05-20,Bronze,South
+C00045,WeChat Mini Program,2025-05-18,Silver,West
+C00046,Online,2025-08-24,Bronze,North
+C00047,Offline,2024-12-27,Bronze,West
+C00048,Offline,2025-08-11,Bronze,East
+C00049,Offline,2025-06-07,Silver,North
+C00050,Offline,2025-02-27,Silver,North
+C00051,Offline,2025-06-29,Bronze,North
+C00052,Offline,2025-08-09,Gold,West
+C00053,Offline,2024-12-03,Bronze,Central
+C00054,WeChat Mini Program,2025-03-30,Silver,South
+C00055,Online,2024-12-08,Silver,North
+C00056,Offline,2025-01-19,Bronze,South
+C00057,Offline,2024-12-01,Gold,East
+C00058,Offline,2025-07-30,Silver,Central
+C00059,WeChat Mini Program,2025-04-26,Gold,Central
+C00060,Offline,2025-03-06,Bronze,South
+C00061,Offline,2025-05-16,Bronze,West
+C00062,WeChat Mini Program,2025-08-13,Bronze,East
+C00063,WeChat Mini Program,2025-04-17,Silver,East
+C00064,Offline,2025-02-10,Bronze,Central
+C00065,Online,2025-07-12,Bronze,West
+C00066,WeChat Mini Program,2025-06-19,Gold,North
+C00067,Offline,2025-05-24,Silver,Central
+C00068,Online,2025-05-24,Bronze,North
+C00069,Online,2025-01-04,Silver,South
+C00070,Online,2024-12-13,Bronze,South
+C00071,Online,2025-02-20,Silver,South
+C00072,WeChat Mini Program,2025-02-13,Bronze,East
+C00073,Online,2024-11-21,Platinum,North
+C00074,WeChat Mini Program,2024-11-16,Silver,East
+C00075,WeChat Mini Program,2025-04-02,Silver,Central
+C00076,Offline,2025-05-21,Platinum,South
+C00077,Online,2025-07-30,Bronze,South
+C00078,Online,2024-11-30,Bronze,South
+C00079,WeChat Mini Program,2025-08-13,Silver,South
+C00080,WeChat Mini Program,2025-08-01,Bronze,North
+C00081,WeChat Mini Program,2025-04-29,Bronze,East
+C00082,WeChat Mini Program,2025-01-25,Silver,West
+C00083,WeChat Mini Program,2025-02-15,Bronze,East
+C00084,Online,2025-02-10,Gold,East
+C00085,Offline,2025-05-06,Bronze,North
+C00086,Online,2025-06-02,Silver,Central
+C00087,Offline,2025-02-20,Bronze,East
+C00088,Offline,2024-12-08,Bronze,Central
+C00089,Online,2025-08-05,Gold,East
+C00090,WeChat Mini Program,2024-12-13,Bronze,Central
+C00091,Offline,2025-07-07,Bronze,West
+C00092,WeChat Mini Program,2025-07-28,Bronze,West
+C00093,Online,2025-01-08,Bronze,East
+C00094,Online,2025-03-26,Bronze,South
+C00095,Offline,2025-08-24,Bronze,North
+C00096,Online,2025-01-16,Bronze,North
+C00097,WeChat Mini Program,2025-08-24,Silver,East
+C00098,Offline,2025-08-26,Gold,East
+C00099,Offline,2025-06-18,Bronze,West
+C00100,WeChat Mini Program,2025-01-15,Gold,Central
+C00101,WeChat Mini Program,2025-02-19,Bronze,South
+C00102,Online,2025-07-03,Platinum,Central
+C00103,Online,2024-12-28,Platinum,North
+C00104,Online,2025-02-11,Silver,North
+C00105,Online,2025-05-01,Bronze,North
+C00106,WeChat Mini Program,2025-04-13,Bronze,Central
+C00107,Online,2025-02-01,Silver,Central
+C00108,Offline,2025-07-29,Gold,East
+C00109,WeChat Mini Program,2024-12-03,Gold,North
+C00110,Offline,2025-04-23,Gold,North
+C00111,Online,2025-06-18,Bronze,East
+C00112,Online,2025-04-29,Bronze,Central
+C00113,Online,2025-08-15,Bronze,North
+C00114,Offline,2024-12-14,Gold,Central
+C00115,WeChat Mini Program,2025-05-09,Silver,South
+C00116,WeChat Mini Program,2025-06-29,Silver,East
+C00117,Online,2025-01-02,Gold,North
+C00118,Online,2024-12-19,Silver,South
+C00119,WeChat Mini Program,2025-04-08,Silver,Central
+C00120,WeChat Mini Program,2024-12-19,Gold,East
+C00121,WeChat Mini Program,2024-11-27,Bronze,East
+C00122,Online,2025-04-11,Gold,South
+C00123,Offline,2025-05-29,Silver,West
+C00124,WeChat Mini Program,2025-06-16,Bronze,East
+C00125,Online,2025-06-25,Silver,South
+C00126,Online,2025-04-16,Bronze,East
+C00127,Offline,2025-01-17,Bronze,South
+C00128,WeChat Mini Program,2025-01-03,Bronze,Central
+C00129,Online,2025-08-09,Gold,West
+C00130,Offline,2025-06-11,Bronze,West
+C00131,Offline,2025-05-16,Bronze,East
+C00132,Offline,2025-08-01,Platinum,Central
+C00133,WeChat Mini Program,2025-06-19,Silver,West
+C00134,WeChat Mini Program,2024-12-03,Bronze,East
+C00135,WeChat Mini Program,2025-01-01,Bronze,South
+C00136,Offline,2025-06-18,Platinum,North
+C00137,WeChat Mini Program,2024-12-13,Silver,Central
+C00138,Online,2025-01-18,Bronze,South
+C00139,WeChat Mini Program,2025-01-27,Silver,East
+C00140,WeChat Mini Program,2025-06-28,Bronze,Central
+C00141,Online,2025-01-27,Bronze,North
+C00142,Online,2025-07-19,Bronze,South
+C00143,Online,2025-04-16,Bronze,North
+C00144,Offline,2025-08-02,Bronze,East
+C00145,Offline,2025-03-29,Bronze,East
+C00146,Offline,2024-12-24,Silver,East
+C00147,Online,2025-05-04,Gold,South
+C00148,WeChat Mini Program,2024-12-20,Bronze,North
+C00149,Offline,2025-06-28,Bronze,North
+C00150,Offline,2025-06-06,Silver,Central
+C00151,Offline,2025-01-15,Bronze,Central
+C00152,Online,2025-01-15,Bronze,South
+C00153,Offline,2025-02-07,Silver,East
+C00154,Online,2025-06-09,Gold,North
+C00155,WeChat Mini Program,2025-06-06,Silver,North
+C00156,Online,2025-01-19,Platinum,West
+C00157,Online,2025-05-25,Silver,South
+C00158,Online,2024-11-06,Silver,North
+C00159,Online,2025-01-20,Bronze,South
+C00160,Offline,2025-02-02,Silver,South
+C00161,WeChat Mini Program,2025-02-18,Bronze,North
+C00162,WeChat Mini Program,2025-03-07,Bronze,North
+C00163,WeChat Mini Program,2025-06-15,Silver,South
+C00164,Offline,2025-01-27,Bronze,East
+C00165,WeChat Mini Program,2024-11-11,Silver,West
+C00166,Offline,2024-11-26,Bronze,East
+C00167,WeChat Mini Program,2025-08-28,Bronze,East
+C00168,Offline,2024-11-16,Bronze,Central
+C00169,Online,2025-07-05,Bronze,West
+C00170,Online,2025-06-13,Silver,East
+C00171,Offline,2025-06-03,Bronze,North
+C00172,WeChat Mini Program,2025-03-15,Bronze,East
+C00173,WeChat Mini Program,2025-02-05,Bronze,North
+C00174,WeChat Mini Program,2025-06-05,Silver,Central
+C00175,Online,2024-11-08,Silver,West
+C00176,Offline,2025-04-30,Silver,North
+C00177,Offline,2025-03-01,Bronze,West
+C00178,Offline,2025-07-24,Silver,East
+C00179,WeChat Mini Program,2025-05-09,Gold,West
+C00180,WeChat Mini Program,2025-06-29,Bronze,Central
+C00181,WeChat Mini Program,2025-06-17,Bronze,West
+C00182,Offline,2025-01-30,Silver,South
+C00183,WeChat Mini Program,2025-08-24,Gold,Central
+C00184,Online,2025-02-23,Silver,North
+C00185,Offline,2025-06-23,Bronze,East
+C00186,Online,2024-12-02,Bronze,Central
+C00187,Online,2025-04-17,Platinum,East
+C00188,Offline,2025-05-18,Bronze,South
+C00189,Online,2025-07-28,Silver,North
+C00190,Online,2025-03-17,Bronze,East
+C00191,Online,2025-01-07,Bronze,West
+C00192,Online,2025-02-19,Silver,Central
+C00193,Online,2025-03-04,Gold,West
+C00194,WeChat Mini Program,2025-05-30,Silver,East
+C00195,Online,2025-03-14,Bronze,Central
+C00196,Offline,2025-08-16,Silver,East
+C00197,Offline,2025-07-07,Bronze,North
+C00198,Online,2025-05-02,Bronze,South
+C00199,Online,2025-07-04,Platinum,East
+C00200,Offline,2025-06-09,Silver,North
+C00201,WeChat Mini Program,2025-06-15,Bronze,East
+C00202,Offline,2025-08-25,Bronze,Central
+C00203,Offline,2025-06-26,Silver,South
+C00204,Online,2025-03-13,Silver,Central
+C00205,Offline,2024-11-09,Platinum,South
+C00206,Online,2025-03-03,Gold,South
+C00207,Offline,2025-02-26,Bronze,South
+C00208,WeChat Mini Program,2025-06-24,Silver,East
+C00209,Online,2025-08-20,Silver,Central
+C00210,Online,2025-02-02,Bronze,South
+C00211,Offline,2025-05-15,Bronze,North
+C00212,Online,2025-04-22,Platinum,Central
+C00213,Online,2025-07-07,Silver,North
+C00214,WeChat Mini Program,2025-02-10,Bronze,West
+C00215,Offline,2024-11-23,Gold,South
+C00216,Online,2025-08-10,Bronze,East
+C00217,Online,2025-02-01,Bronze,North
+C00218,Offline,2025-05-22,Silver,East
+C00219,Online,2025-06-16,Bronze,West
+C00220,Offline,2025-07-29,Silver,South
+C00221,Offline,2025-07-27,Bronze,South
+C00222,Offline,2025-03-01,Gold,North
+C00223,Online,2025-08-24,Bronze,West
+C00224,WeChat Mini Program,2024-12-17,Silver,South
+C00225,WeChat Mini Program,2024-11-25,Bronze,Central
+C00226,WeChat Mini Program,2025-08-12,Silver,East
+C00227,WeChat Mini Program,2025-08-08,Bronze,East
+C00228,Offline,2024-12-26,Silver,Central
+C00229,WeChat Mini Program,2025-04-09,Silver,South
+C00230,Offline,2025-03-30,Bronze,Central
+C00231,Offline,2025-07-25,Silver,South
+C00232,WeChat Mini Program,2025-04-12,Silver,North
+C00233,Offline,2025-08-29,Gold,West
+C00234,Offline,2025-07-25,Gold,West
+C00235,Online,2024-12-21,Platinum,Central
+C00236,Offline,2025-06-12,Bronze,North
+C00237,WeChat Mini Program,2024-11-14,Bronze,North
+C00238,Online,2025-04-23,Gold,North
+C00239,Offline,2025-08-24,Bronze,East
+C00240,WeChat Mini Program,2025-05-25,Gold,East
+C00241,Offline,2025-07-04,Bronze,North
+C00242,WeChat Mini Program,2025-02-20,Gold,Central
+C00243,Online,2025-04-03,Bronze,East
+C00244,WeChat Mini Program,2025-04-13,Silver,North
+C00245,Offline,2025-01-20,Silver,North
+C00246,Offline,2025-08-22,Silver,South
+C00247,WeChat Mini Program,2024-12-16,Bronze,North
+C00248,Online,2025-08-11,Bronze,East
+C00249,Offline,2025-02-14,Silver,Central
+C00250,Offline,2024-12-10,Bronze,North
+C00251,WeChat Mini Program,2025-01-16,Bronze,East
+C00252,Offline,2025-05-19,Bronze,West
+C00253,Offline,2024-11-09,Bronze,Central
+C00254,Offline,2025-05-23,Silver,West
+C00255,Online,2025-01-01,Bronze,South
+C00256,WeChat Mini Program,2025-04-25,Silver,North
+C00257,WeChat Mini Program,2025-08-17,Bronze,West
+C00258,Offline,2024-12-10,Platinum,Central
+C00259,WeChat Mini Program,2025-05-31,Bronze,North
+C00260,WeChat Mini Program,2024-11-16,Bronze,West
+C00261,WeChat Mini Program,2025-03-28,Bronze,West
+C00262,WeChat Mini Program,2025-02-16,Bronze,West
+C00263,Online,2025-03-05,Silver,West
+C00264,Offline,2025-06-23,Gold,Central
+C00265,Offline,2025-06-18,Bronze,West
+C00266,Online,2025-04-04,Bronze,South
+C00267,Online,2025-07-20,Gold,North
+C00268,Online,2025-05-03,Bronze,South
+C00269,Offline,2025-07-24,Gold,East
+C00270,WeChat Mini Program,2025-02-13,Bronze,West
+C00271,WeChat Mini Program,2024-12-23,Bronze,South
+C00272,Online,2025-08-22,Silver,South
+C00273,Offline,2025-03-18,Bronze,West
+C00274,Offline,2025-01-16,Bronze,East
+C00275,Offline,2025-03-14,Bronze,West
+C00276,Offline,2025-07-18,Gold,South
+C00277,Online,2025-07-15,Gold,West
+C00278,WeChat Mini Program,2025-08-01,Bronze,Central
+C00279,WeChat Mini Program,2024-11-29,Silver,South
+C00280,Online,2024-11-29,Bronze,Central
+C00281,Online,2024-12-05,Silver,South
+C00282,Online,2025-04-13,Bronze,South
+C00283,WeChat Mini Program,2025-08-18,Bronze,East
+C00284,Offline,2025-07-28,Bronze,East
+C00285,Offline,2025-07-15,Silver,North
+C00286,WeChat Mini Program,2025-01-26,Bronze,Central
+C00287,Online,2025-04-09,Bronze,East
+C00288,WeChat Mini Program,2025-01-23,Silver,North
+C00289,WeChat Mini Program,2024-12-14,Gold,West
+C00290,Online,2025-03-08,Gold,South
+C00291,WeChat Mini Program,2025-02-28,Bronze,Central
+C00292,WeChat Mini Program,2024-11-11,Silver,Central
+C00293,Online,2025-01-29,Platinum,South
+C00294,Offline,2025-06-11,Bronze,Central
+C00295,Offline,2025-01-08,Bronze,South
+C00296,Offline,2025-06-05,Bronze,Central
+C00297,Online,2025-04-13,Bronze,East
+C00298,Online,2025-05-11,Silver,Central
+C00299,WeChat Mini Program,2025-03-01,Bronze,West
+C00300,Offline,2024-12-26,Bronze,South
+C00301,WeChat Mini Program,2025-06-25,Silver,Central
+C00302,Offline,2024-12-16,Silver,Central
+C00303,Online,2025-02-17,Bronze,North
+C00304,Online,2025-03-13,Gold,Central
+C00305,Online,2024-11-14,Gold,West
+C00306,Online,2025-08-15,Silver,South
+C00307,WeChat Mini Program,2025-06-06,Silver,North
+C00308,WeChat Mini Program,2025-04-26,Bronze,West
+C00309,Online,2025-01-30,Silver,Central
+C00310,Online,2025-01-30,Silver,Central
+C00311,WeChat Mini Program,2025-04-05,Bronze,West
+C00312,Online,2025-06-24,Bronze,West
+C00313,WeChat Mini Program,2025-06-03,Silver,West
+C00314,WeChat Mini Program,2025-07-23,Silver,South
+C00315,Offline,2025-02-23,Bronze,West
+C00316,Online,2025-06-15,Silver,North
+C00317,Online,2024-12-23,Bronze,West
+C00318,Offline,2025-02-17,Silver,South
+C00319,WeChat Mini Program,2025-05-13,Gold,South
+C00320,Online,2025-04-17,Bronze,South
+C00321,Offline,2025-07-31,Silver,West
+C00322,Offline,2024-11-15,Bronze,North
+C00323,Offline,2025-05-06,Bronze,East
+C00324,Offline,2025-03-08,Bronze,South
+C00325,Offline,2025-06-05,Silver,East
+C00326,Offline,2025-02-25,Silver,East
+C00327,Offline,2024-12-06,Bronze,North
+C00328,Online,2024-11-22,Silver,Central
+C00329,Offline,2025-06-30,Silver,West
+C00330,WeChat Mini Program,2025-07-18,Silver,East
+C00331,Online,2024-11-26,Silver,Central
+C00332,Offline,2025-07-20,Bronze,West
+C00333,WeChat Mini Program,2024-12-24,Bronze,East
+C00334,WeChat Mini Program,2025-01-31,Bronze,East
+C00335,Online,2025-05-12,Silver,East
+C00336,WeChat Mini Program,2025-03-02,Silver,Central
+C00337,Offline,2025-08-26,Silver,North
+C00338,Online,2025-02-23,Bronze,South
+C00339,Online,2025-07-23,Gold,West
+C00340,WeChat Mini Program,2025-06-16,Gold,South
+C00341,WeChat Mini Program,2024-11-14,Silver,East
+C00342,WeChat Mini Program,2025-01-09,Bronze,Central
+C00343,Online,2025-01-29,Gold,South
+C00344,Offline,2024-11-16,Silver,North
+C00345,Offline,2024-11-24,Bronze,East
+C00346,WeChat Mini Program,2025-01-13,Gold,Central
+C00347,Offline,2025-03-16,Bronze,West
+C00348,Offline,2024-11-28,Bronze,South
+C00349,Online,2025-06-22,Bronze,Central
+C00350,Offline,2024-12-12,Bronze,West
+C00351,Online,2024-11-24,Bronze,West
+C00352,Online,2024-11-18,Silver,Central
+C00353,Offline,2024-12-29,Silver,South
+C00354,Offline,2025-01-25,Silver,West
+C00355,WeChat Mini Program,2025-06-03,Bronze,Central
+C00356,Offline,2025-03-01,Silver,East
+C00357,Online,2025-06-20,Bronze,North
+C00358,WeChat Mini Program,2025-03-30,Bronze,North
+C00359,WeChat Mini Program,2025-07-13,Silver,North
+C00360,Offline,2025-04-14,Bronze,West
+C00361,WeChat Mini Program,2025-05-21,Platinum,West
+C00362,WeChat Mini Program,2025-03-21,Platinum,Central
+C00363,Online,2025-01-04,Platinum,East
+C00364,Online,2025-02-19,Bronze,Central
+C00365,Offline,2024-12-25,Gold,South
+C00366,WeChat Mini Program,2025-01-12,Gold,Central
+C00367,Online,2025-01-17,Gold,West
+C00368,Offline,2025-02-02,Bronze,South
+C00369,WeChat Mini Program,2025-03-13,Silver,West
+C00370,Offline,2025-08-28,Bronze,West
+C00371,Online,2024-12-05,Gold,North
+C00372,Online,2025-02-18,Bronze,West
+C00373,WeChat Mini Program,2025-04-16,Bronze,South
+C00374,Offline,2025-02-18,Gold,West
+C00375,Online,2025-06-20,Bronze,West
+C00376,Offline,2025-07-12,Silver,Central
+C00377,Offline,2024-11-11,Bronze,South
+C00378,WeChat Mini Program,2025-04-01,Bronze,Central
+C00379,Offline,2025-04-07,Bronze,North
+C00380,Online,2024-11-25,Bronze,East
+C00381,WeChat Mini Program,2025-06-10,Bronze,North
+C00382,WeChat Mini Program,2025-04-14,Bronze,West
+C00383,WeChat Mini Program,2025-01-29,Silver,North
+C00384,Online,2025-01-04,Gold,South
+C00385,WeChat Mini Program,2025-04-22,Silver,North
+C00386,Online,2025-02-10,Bronze,South
+C00387,Online,2024-11-09,Gold,North
+C00388,Offline,2025-02-10,Gold,East
+C00389,Online,2025-04-20,Silver,West
+C00390,WeChat Mini Program,2025-03-22,Platinum,East
+C00391,WeChat Mini Program,2024-12-23,Bronze,Central
+C00392,Offline,2025-01-11,Silver,Central
+C00393,WeChat Mini Program,2025-06-06,Bronze,East
+C00394,Online,2025-04-21,Platinum,South
+C00395,Online,2025-01-09,Bronze,East
+C00396,Online,2024-12-16,Bronze,West
+C00397,WeChat Mini Program,2025-02-01,Bronze,East
+C00398,WeChat Mini Program,2025-05-20,Platinum,West
+C00399,Offline,2024-11-12,Bronze,West
+C00400,Online,2025-04-17,Bronze,North
+C00401,WeChat Mini Program,2025-06-30,Silver,South
+C00402,Offline,2025-07-30,Bronze,East
+C00403,Online,2025-07-21,Gold,East
+C00404,Offline,2025-06-12,Bronze,Central
+C00405,WeChat Mini Program,2025-02-13,Bronze,East
+C00406,Online,2024-11-16,Silver,North
+C00407,WeChat Mini Program,2025-02-21,Platinum,Central
+C00408,Offline,2025-07-31,Bronze,West
+C00409,Offline,2025-06-15,Silver,East
+C00410,Online,2024-11-29,Bronze,West
+C00411,Online,2025-04-07,Bronze,Central
+C00412,WeChat Mini Program,2025-05-12,Bronze,North
+C00413,Offline,2025-03-18,Silver,West
+C00414,Online,2025-06-05,Bronze,East
+C00415,Offline,2025-08-08,Bronze,South
+C00416,Offline,2025-04-16,Bronze,North
+C00417,WeChat Mini Program,2025-01-18,Silver,North
+C00418,Online,2025-02-20,Bronze,East
+C00419,WeChat Mini Program,2025-08-20,Bronze,South
+C00420,Offline,2025-07-10,Bronze,North
+C00421,Online,2025-07-09,Bronze,East
+C00422,Offline,2025-08-25,Bronze,Central
+C00423,WeChat Mini Program,2025-03-01,Bronze,West
+C00424,Offline,2024-12-13,Gold,West
+C00425,Online,2025-05-30,Bronze,North
+C00426,Offline,2025-07-13,Bronze,East
+C00427,WeChat Mini Program,2024-12-20,Bronze,West
+C00428,Online,2025-05-13,Bronze,East
+C00429,Online,2025-08-12,Bronze,South
+C00430,Offline,2025-06-07,Bronze,North
+C00431,WeChat Mini Program,2025-02-22,Gold,South
+C00432,WeChat Mini Program,2025-05-24,Gold,Central
+C00433,WeChat Mini Program,2025-05-29,Silver,East
+C00434,WeChat Mini Program,2025-03-05,Bronze,West
+C00435,Offline,2025-03-04,Silver,Central
+C00436,Online,2025-08-17,Bronze,North
+C00437,Online,2025-03-26,Silver,East
+C00438,Online,2025-06-14,Silver,East
+C00439,Offline,2025-03-09,Silver,North
+C00440,WeChat Mini Program,2025-07-17,Bronze,Central
+C00441,Offline,2025-04-11,Bronze,East
+C00442,Offline,2024-12-24,Silver,Central
+C00443,Online,2025-08-07,Bronze,West
+C00444,Online,2025-05-24,Gold,West
+C00445,WeChat Mini Program,2025-06-08,Platinum,Central
+C00446,WeChat Mini Program,2025-01-19,Bronze,North
+C00447,WeChat Mini Program,2024-11-30,Bronze,Central
+C00448,WeChat Mini Program,2024-12-12,Silver,Central
+C00449,WeChat Mini Program,2025-03-16,Silver,West
+C00450,Offline,2025-01-19,Bronze,West
+C00451,Offline,2025-04-15,Bronze,North
+C00452,Online,2025-01-15,Silver,North
+C00453,Offline,2025-01-04,Bronze,South
+C00454,WeChat Mini Program,2025-03-20,Bronze,South
+C00455,Online,2025-02-05,Bronze,East
+C00456,Offline,2025-08-22,Bronze,West
+C00457,Online,2025-03-25,Silver,North
+C00458,Offline,2025-05-13,Gold,West
+C00459,Online,2025-02-02,Bronze,Central
+C00460,Online,2025-05-15,Silver,East
+C00461,Offline,2025-06-25,Bronze,Central
+C00462,Online,2024-12-15,Gold,Central
+C00463,WeChat Mini Program,2025-01-02,Silver,North
+C00464,WeChat Mini Program,2025-05-15,Silver,East
+C00465,WeChat Mini Program,2025-03-11,Bronze,North
+C00466,WeChat Mini Program,2025-01-15,Gold,Central
+C00467,Online,2025-07-30,Silver,North
+C00468,Online,2025-02-02,Platinum,South
+C00469,Online,2024-11-12,Gold,Central
+C00470,WeChat Mini Program,2025-06-07,Bronze,West
+C00471,Offline,2025-03-30,Bronze,North
+C00472,WeChat Mini Program,2025-01-25,Bronze,West
+C00473,Online,2025-06-17,Bronze,East
+C00474,WeChat Mini Program,2024-12-15,Gold,Central
+C00475,Online,2025-05-25,Bronze,East
+C00476,Online,2025-07-28,Silver,East
+C00477,Offline,2025-05-24,Silver,West
+C00478,WeChat Mini Program,2025-01-27,Silver,Central
+C00479,Offline,2025-02-05,Bronze,South
+C00480,Online,2025-07-30,Bronze,North
+C00481,WeChat Mini Program,2025-06-05,Gold,North
+C00482,WeChat Mini Program,2025-08-25,Gold,East
+C00483,Offline,2025-02-11,Bronze,North
+C00484,Online,2025-03-06,Silver,West
+C00485,Offline,2025-08-19,Gold,West
+C00486,WeChat Mini Program,2024-12-15,Bronze,East
+C00487,Offline,2025-03-02,Silver,North
+C00488,WeChat Mini Program,2025-08-21,Bronze,Central
+C00489,WeChat Mini Program,2025-05-19,Bronze,North
+C00490,Online,2024-12-21,Bronze,Central
+C00491,Offline,2025-03-10,Silver,North
+C00492,Offline,2025-01-07,Silver,South
+C00493,Offline,2024-12-05,Silver,Central
+C00494,Offline,2025-01-10,Platinum,West
+C00495,Offline,2025-04-08,Bronze,East
+C00496,WeChat Mini Program,2025-06-26,Bronze,East
+C00497,Online,2025-07-07,Bronze,Central
+C00498,Offline,2025-03-09,Bronze,West
+C00499,Online,2024-12-09,Gold,West
+C00500,Offline,2025-05-24,Platinum,Central
+C00501,WeChat Mini Program,2025-03-10,Bronze,Central
+C00502,Offline,2025-01-11,Platinum,North
+C00503,Online,2025-04-15,Bronze,Central
+C00504,WeChat Mini Program,2024-12-16,Gold,Central
+C00505,WeChat Mini Program,2025-07-12,Bronze,West
+C00506,Online,2025-08-31,Gold,West
+C00507,WeChat Mini Program,2025-02-04,Silver,Central
+C00508,WeChat Mini Program,2025-02-23,Gold,West
+C00509,WeChat Mini Program,2025-08-04,Silver,South
+C00510,Offline,2025-07-11,Silver,East
+C00511,Online,2024-11-12,Bronze,North
+C00512,Online,2025-04-17,Gold,East
+C00513,Online,2025-07-29,Bronze,West
+C00514,Offline,2025-04-02,Silver,West
+C00515,Online,2025-05-07,Bronze,South
+C00516,Offline,2024-11-21,Gold,South
+C00517,Offline,2025-05-06,Bronze,East
+C00518,Online,2025-06-08,Bronze,East
+C00519,WeChat Mini Program,2025-05-15,Bronze,South
+C00520,Online,2025-05-02,Gold,East
+C00521,Offline,2025-02-04,Gold,West
+C00522,WeChat Mini Program,2025-04-16,Bronze,North
+C00523,Online,2025-06-17,Gold,East
+C00524,WeChat Mini Program,2025-08-25,Bronze,Central
+C00525,Online,2025-05-12,Gold,South
+C00526,Offline,2025-06-06,Silver,South
+C00527,Offline,2025-03-10,Silver,West
+C00528,Offline,2025-04-22,Bronze,North
+C00529,Offline,2025-04-16,Platinum,South
+C00530,Online,2024-12-04,Bronze,North
+C00531,Online,2024-12-11,Silver,Central
+C00532,Online,2025-06-24,Gold,West
+C00533,Online,2025-03-11,Gold,East
+C00534,Offline,2025-05-14,Bronze,North
+C00535,Offline,2025-07-22,Bronze,East
+C00536,WeChat Mini Program,2025-01-15,Bronze,West
+C00537,Online,2025-04-26,Silver,Central
+C00538,Online,2025-01-26,Silver,South
+C00539,Online,2025-04-15,Silver,West
+C00540,Offline,2024-11-17,Silver,West
+C00541,Offline,2025-08-26,Bronze,East
+C00542,Offline,2025-06-13,Silver,North
+C00543,Online,2025-06-25,Bronze,Central
+C00544,Online,2024-12-27,Bronze,North
+C00545,Offline,2024-12-05,Gold,South
+C00546,Offline,2024-12-28,Bronze,South
+C00547,Offline,2025-05-01,Silver,West
+C00548,Online,2024-11-26,Silver,West
+C00549,Online,2025-01-02,Silver,South
+C00550,WeChat Mini Program,2025-08-21,Bronze,South
+C00551,WeChat Mini Program,2025-01-18,Bronze,North
+C00552,WeChat Mini Program,2025-07-03,Silver,South
+C00553,Offline,2025-02-08,Silver,North
+C00554,WeChat Mini Program,2025-01-31,Gold,North
+C00555,Offline,2025-04-10,Gold,North
+C00556,Online,2025-02-19,Bronze,East
+C00557,Offline,2025-02-12,Gold,East
+C00558,Online,2025-01-26,Gold,West
+C00559,WeChat Mini Program,2025-05-09,Bronze,Central
+C00560,Online,2025-06-09,Silver,South
+C00561,WeChat Mini Program,2024-11-27,Bronze,East
+C00562,Online,2025-02-13,Platinum,West
+C00563,WeChat Mini Program,2025-08-04,Silver,North
+C00564,Offline,2025-05-24,Bronze,East
+C00565,WeChat Mini Program,2025-03-24,Platinum,North
+C00566,Online,2024-12-02,Gold,East
+C00567,WeChat Mini Program,2025-03-30,Silver,East
+C00568,Online,2024-11-17,Bronze,Central
+C00569,WeChat Mini Program,2024-11-20,Bronze,East
+C00570,Offline,2025-02-12,Silver,Central
+C00571,Online,2025-04-15,Bronze,West
+C00572,Offline,2024-11-07,Bronze,West
+C00573,Online,2024-12-02,Silver,North
+C00574,Online,2025-07-14,Bronze,Central
+C00575,Online,2024-12-23,Bronze,South
+C00576,Online,2024-12-18,Bronze,South
+C00577,Offline,2024-11-17,Bronze,South
+C00578,Offline,2025-03-22,Bronze,East
+C00579,WeChat Mini Program,2025-02-14,Silver,West
+C00580,Online,2025-04-24,Gold,South
+C00581,Offline,2025-06-22,Silver,West
+C00582,WeChat Mini Program,2025-02-16,Bronze,West
+C00583,WeChat Mini Program,2025-05-04,Bronze,North
+C00584,Offline,2025-03-18,Bronze,Central
+C00585,Online,2024-12-07,Silver,West
+C00586,Online,2025-03-10,Silver,East
+C00587,Online,2025-03-19,Gold,East
+C00588,Online,2025-04-13,Gold,North
+C00589,WeChat Mini Program,2025-06-09,Bronze,Central
+C00590,Offline,2025-01-02,Bronze,East
+C00591,Online,2025-04-10,Bronze,West
+C00592,Online,2025-01-22,Bronze,West
+C00593,Offline,2024-11-08,Platinum,North
+C00594,WeChat Mini Program,2025-03-17,Silver,West
+C00595,Offline,2025-03-27,Silver,North
+C00596,Online,2025-01-02,Silver,South
+C00597,Online,2024-11-30,Gold,East
+C00598,Online,2025-07-29,Platinum,West
+C00599,WeChat Mini Program,2024-12-23,Gold,West
+C00600,Online,2024-12-21,Bronze,South
+C00601,Offline,2025-07-03,Gold,West
+C00602,Online,2025-07-10,Bronze,South
+C00603,Offline,2025-06-18,Bronze,Central
+C00604,Offline,2025-08-08,Platinum,South
+C00605,Offline,2025-05-25,Bronze,East
+C00606,Offline,2024-11-10,Bronze,West
+C00607,Online,2025-06-27,Silver,North
+C00608,WeChat Mini Program,2024-12-24,Gold,West
+C00609,Offline,2025-04-22,Bronze,East
+C00610,WeChat Mini Program,2025-02-02,Silver,West
+C00611,WeChat Mini Program,2025-02-01,Gold,South
+C00612,Offline,2025-07-22,Gold,Central
+C00613,WeChat Mini Program,2025-03-09,Gold,East
+C00614,WeChat Mini Program,2025-07-07,Platinum,South
+C00615,WeChat Mini Program,2024-11-12,Bronze,West
+C00616,WeChat Mini Program,2025-02-06,Silver,North
+C00617,WeChat Mini Program,2025-01-27,Silver,Central
+C00618,Offline,2024-12-18,Bronze,South
+C00619,Online,2025-04-09,Bronze,East
+C00620,Online,2025-06-08,Gold,South
+C00621,WeChat Mini Program,2025-02-03,Bronze,East
+C00622,Online,2025-03-25,Bronze,West
+C00623,Online,2025-07-10,Platinum,South
+C00624,WeChat Mini Program,2025-03-13,Bronze,Central
+C00625,WeChat Mini Program,2025-07-03,Silver,West
+C00626,Online,2025-02-06,Gold,North
+C00627,WeChat Mini Program,2025-02-03,Bronze,North
+C00628,Offline,2025-04-26,Bronze,West
+C00629,Online,2025-02-03,Bronze,North
+C00630,Offline,2025-07-19,Bronze,Central
+C00631,WeChat Mini Program,2025-07-28,Gold,North
+C00632,Online,2025-05-16,Bronze,South
+C00633,Online,2025-06-13,Bronze,East
+C00634,WeChat Mini Program,2025-04-02,Silver,South
+C00635,WeChat Mini Program,2025-02-21,Bronze,South
+C00636,Online,2025-03-16,Gold,West
+C00637,WeChat Mini Program,2025-07-04,Bronze,Central
+C00638,Online,2025-03-31,Silver,West
+C00639,Offline,2025-08-02,Gold,North
+C00640,WeChat Mini Program,2025-08-11,Gold,Central
+C00641,Offline,2024-11-28,Bronze,West
+C00642,WeChat Mini Program,2025-08-21,Gold,Central
+C00643,WeChat Mini Program,2025-01-12,Bronze,Central
+C00644,Offline,2025-04-22,Bronze,North
+C00645,Offline,2025-03-22,Bronze,Central
+C00646,Online,2025-06-04,Bronze,East
+C00647,Offline,2024-12-12,Silver,West
+C00648,WeChat Mini Program,2025-04-22,Gold,South
+C00649,Offline,2024-12-04,Bronze,North
+C00650,WeChat Mini Program,2025-05-29,Bronze,East
+C00651,WeChat Mini Program,2025-06-20,Platinum,Central
+C00652,Offline,2025-04-02,Bronze,East
+C00653,WeChat Mini Program,2025-08-18,Silver,East
+C00654,Offline,2025-07-17,Silver,North
+C00655,WeChat Mini Program,2024-11-14,Bronze,North
+C00656,WeChat Mini Program,2025-04-06,Bronze,Central
+C00657,Offline,2025-07-03,Silver,North
+C00658,WeChat Mini Program,2025-08-23,Platinum,South
+C00659,WeChat Mini Program,2025-02-08,Bronze,North
+C00660,WeChat Mini Program,2025-04-20,Gold,North
+C00661,Online,2025-07-13,Bronze,North
+C00662,Online,2025-01-13,Bronze,West
+C00663,Online,2024-11-07,Bronze,North
+C00664,WeChat Mini Program,2025-02-21,Gold,North
+C00665,Online,2025-08-02,Silver,West
+C00666,Offline,2024-12-17,Gold,South
+C00667,Online,2025-08-01,Gold,West
+C00668,WeChat Mini Program,2025-04-21,Bronze,North
+C00669,Online,2025-08-14,Bronze,Central
+C00670,Offline,2025-03-31,Bronze,East
+C00671,WeChat Mini Program,2025-02-01,Bronze,West
+C00672,WeChat Mini Program,2024-11-06,Gold,East
+C00673,Online,2024-11-11,Bronze,East
+C00674,Offline,2025-08-03,Platinum,East
+C00675,Offline,2025-03-08,Bronze,West
+C00676,Offline,2024-12-27,Bronze,East
+C00677,Online,2025-02-09,Bronze,West
+C00678,Offline,2025-01-12,Bronze,East
+C00679,Online,2024-12-24,Bronze,East
+C00680,Offline,2025-05-20,Bronze,West
+C00681,Online,2025-03-25,Silver,East
+C00682,Offline,2025-07-10,Platinum,South
+C00683,WeChat Mini Program,2025-05-25,Gold,South
+C00684,Offline,2025-04-10,Platinum,South
+C00685,Offline,2025-01-01,Bronze,North
+C00686,Online,2025-01-25,Silver,North
+C00687,Online,2025-06-11,Silver,East
+C00688,WeChat Mini Program,2025-07-28,Silver,East
+C00689,Offline,2025-03-08,Silver,South
+C00690,WeChat Mini Program,2025-08-26,Bronze,West
+C00691,WeChat Mini Program,2024-12-15,Bronze,West
+C00692,WeChat Mini Program,2025-01-27,Bronze,South
+C00693,Offline,2025-08-21,Silver,East
+C00694,Offline,2025-01-16,Silver,North
+C00695,WeChat Mini Program,2025-02-12,Bronze,South
+C00696,Online,2025-01-08,Bronze,North
+C00697,Offline,2025-01-22,Bronze,East
+C00698,Online,2025-07-10,Silver,South
+C00699,Offline,2024-11-29,Bronze,North
+C00700,Online,2025-01-11,Gold,North
+C00701,WeChat Mini Program,2025-03-22,Bronze,Central
+C00702,Offline,2025-02-18,Silver,North
+C00703,Offline,2025-08-14,Bronze,East
+C00704,WeChat Mini Program,2025-03-11,Gold,West
+C00705,Online,2025-01-16,Bronze,East
+C00706,Online,2024-12-17,Silver,South
+C00707,Offline,2025-06-04,Bronze,North
+C00708,Online,2025-04-04,Bronze,West
+C00709,WeChat Mini Program,2025-01-06,Bronze,Central
+C00710,WeChat Mini Program,2025-08-21,Bronze,Central
+C00711,Offline,2025-04-14,Silver,South
+C00712,Offline,2025-03-22,Gold,East
+C00713,WeChat Mini Program,2025-01-20,Silver,East
+C00714,Offline,2025-02-03,Silver,East
+C00715,Offline,2025-06-01,Gold,East
+C00716,Online,2025-08-26,Bronze,West
+C00717,Online,2025-05-05,Gold,South
+C00718,WeChat Mini Program,2025-07-20,Silver,East
+C00719,WeChat Mini Program,2025-05-11,Gold,West
+C00720,Offline,2025-07-14,Bronze,West
+C00721,Offline,2025-01-06,Bronze,East
+C00722,Offline,2025-05-08,Bronze,Central
+C00723,WeChat Mini Program,2025-01-31,Gold,North
+C00724,WeChat Mini Program,2024-11-07,Bronze,South
+C00725,Online,2025-02-14,Bronze,Central
+C00726,Online,2025-05-25,Gold,South
+C00727,WeChat Mini Program,2025-02-21,Gold,East
+C00728,WeChat Mini Program,2025-01-12,Bronze,West
+C00729,WeChat Mini Program,2025-06-26,Silver,Central
+C00730,Online,2024-12-26,Gold,Central
+C00731,WeChat Mini Program,2024-12-06,Gold,Central
+C00732,Offline,2025-04-30,Silver,North
+C00733,Online,2025-06-05,Gold,East
+C00734,Online,2024-12-09,Bronze,North
+C00735,Offline,2025-07-23,Silver,North
+C00736,WeChat Mini Program,2025-06-06,Bronze,Central
+C00737,WeChat Mini Program,2025-03-25,Silver,West
+C00738,WeChat Mini Program,2025-02-24,Bronze,North
+C00739,WeChat Mini Program,2025-02-16,Gold,Central
+C00740,Offline,2025-02-20,Silver,North
+C00741,Offline,2025-06-01,Bronze,South
+C00742,WeChat Mini Program,2025-03-06,Bronze,West
+C00743,WeChat Mini Program,2025-04-15,Silver,West
+C00744,WeChat Mini Program,2025-05-29,Bronze,East
+C00745,Offline,2025-04-05,Silver,Central
+C00746,Online,2025-04-28,Silver,North
+C00747,WeChat Mini Program,2025-05-18,Silver,South
+C00748,Online,2025-03-25,Gold,South
+C00749,Online,2025-07-01,Bronze,North
+C00750,Online,2025-08-26,Bronze,South
+C00751,Online,2025-01-14,Bronze,South
+C00752,Online,2024-11-11,Silver,Central
+C00753,Online,2025-07-03,Silver,East
+C00754,Online,2025-07-13,Bronze,Central
+C00755,Online,2025-08-13,Bronze,North
+C00756,Offline,2025-04-09,Silver,North
+C00757,Online,2025-01-29,Gold,East
+C00758,WeChat Mini Program,2025-03-02,Silver,Central
+C00759,WeChat Mini Program,2025-03-31,Gold,Central
+C00760,WeChat Mini Program,2025-03-23,Bronze,North
+C00761,Offline,2024-12-22,Bronze,West
+C00762,WeChat Mini Program,2025-05-08,Silver,West
+C00763,Online,2024-12-23,Bronze,South
+C00764,Online,2024-12-19,Platinum,West
+C00765,Online,2025-03-07,Bronze,East
+C00766,WeChat Mini Program,2024-11-07,Bronze,East
+C00767,WeChat Mini Program,2025-01-05,Bronze,West
+C00768,WeChat Mini Program,2025-03-06,Bronze,East
+C00769,Offline,2025-06-27,Gold,North
+C00770,Online,2025-04-12,Gold,Central
+C00771,WeChat Mini Program,2024-12-22,Bronze,North
+C00772,Offline,2025-08-26,Silver,West
+C00773,Online,2025-06-03,Silver,Central
+C00774,WeChat Mini Program,2025-01-14,Silver,West
+C00775,Offline,2025-06-07,Silver,Central
+C00776,Offline,2025-08-23,Gold,Central
+C00777,Offline,2025-01-05,Bronze,South
+C00778,Online,2025-07-31,Silver,East
+C00779,Online,2024-12-14,Silver,South
+C00780,Offline,2025-06-14,Gold,West
+C00781,WeChat Mini Program,2025-05-30,Silver,South
+C00782,Offline,2025-05-01,Bronze,South
+C00783,WeChat Mini Program,2025-03-30,Platinum,North
+C00784,Offline,2025-08-25,Silver,East
+C00785,Offline,2025-06-14,Bronze,Central
+C00786,Online,2025-02-22,Bronze,West
+C00787,WeChat Mini Program,2025-08-09,Bronze,Central
+C00788,WeChat Mini Program,2025-05-30,Silver,West
+C00789,Offline,2025-05-27,Bronze,North
+C00790,Online,2025-01-06,Bronze,Central
+C00791,Online,2025-02-08,Bronze,Central
+C00792,Offline,2025-05-01,Silver,North
+C00793,Offline,2025-05-10,Silver,Central
+C00794,WeChat Mini Program,2025-02-16,Silver,South
+C00795,Offline,2025-07-26,Bronze,Central
+C00796,Offline,2025-04-29,Gold,West
+C00797,WeChat Mini Program,2025-08-18,Gold,Central
+C00798,Offline,2025-04-16,Silver,Central
+C00799,Online,2025-08-22,Bronze,East
+C00800,Online,2025-08-22,Bronze,South
+C00801,Online,2025-05-06,Gold,East
+C00802,Offline,2024-11-07,Silver,Central
+C00803,Online,2025-03-22,Bronze,West
+C00804,Online,2024-12-03,Silver,East
+C00805,Offline,2025-01-17,Bronze,North
+C00806,WeChat Mini Program,2025-03-23,Gold,West
+C00807,Online,2025-05-14,Bronze,East
+C00808,Online,2025-07-30,Bronze,North
+C00809,Offline,2025-04-19,Silver,East
+C00810,WeChat Mini Program,2025-05-12,Silver,South
+C00811,WeChat Mini Program,2025-01-18,Bronze,Central
+C00812,WeChat Mini Program,2025-01-02,Silver,North
+C00813,Offline,2025-01-07,Gold,North
+C00814,WeChat Mini Program,2025-02-16,Silver,South
+C00815,WeChat Mini Program,2025-06-01,Gold,South
+C00816,Offline,2025-02-24,Bronze,East
+C00817,WeChat Mini Program,2025-05-30,Gold,West
+C00818,Offline,2025-04-19,Silver,South
+C00819,Offline,2024-11-17,Bronze,Central
+C00820,Online,2025-06-22,Silver,South
+C00821,WeChat Mini Program,2025-08-30,Bronze,Central
+C00822,Offline,2025-06-01,Silver,West
+C00823,WeChat Mini Program,2025-03-28,Silver,East
+C00824,WeChat Mini Program,2024-12-19,Platinum,East
+C00825,Online,2025-06-07,Bronze,North
+C00826,WeChat Mini Program,2025-05-02,Bronze,South
+C00827,Online,2025-07-01,Silver,North
+C00828,WeChat Mini Program,2025-02-07,Silver,West
+C00829,WeChat Mini Program,2025-03-03,Bronze,North
+C00830,Offline,2024-11-15,Silver,West
+C00831,Offline,2025-08-21,Bronze,South
+C00832,Offline,2025-06-08,Bronze,West
+C00833,WeChat Mini Program,2025-01-27,Platinum,North
+C00834,WeChat Mini Program,2025-02-22,Silver,Central
+C00835,Offline,2024-12-30,Bronze,West
+C00836,Online,2025-03-09,Bronze,West
+C00837,Online,2025-08-13,Gold,South
+C00838,Offline,2025-08-09,Bronze,East
+C00839,Offline,2025-02-08,Bronze,South
+C00840,Offline,2025-02-24,Bronze,North
+C00841,Online,2025-07-09,Platinum,South
+C00842,Online,2025-02-18,Bronze,South
+C00843,Online,2025-08-09,Silver,South
+C00844,WeChat Mini Program,2025-02-18,Bronze,Central
+C00845,Online,2024-12-06,Gold,West
+C00846,Offline,2025-06-11,Silver,Central
+C00847,Online,2024-12-12,Gold,North
+C00848,WeChat Mini Program,2024-12-22,Bronze,West
+C00849,WeChat Mini Program,2025-06-16,Bronze,Central
+C00850,Online,2025-06-21,Silver,Central
+C00851,Online,2025-05-11,Bronze,West
+C00852,WeChat Mini Program,2025-01-15,Bronze,East
+C00853,Offline,2025-05-14,Silver,West
+C00854,Online,2025-06-14,Gold,East
+C00855,Online,2025-07-08,Gold,Central
+C00856,Offline,2025-05-23,Silver,North
+C00857,Offline,2025-05-29,Bronze,South
+C00858,WeChat Mini Program,2025-07-18,Bronze,North
+C00859,WeChat Mini Program,2025-08-18,Silver,Central
+C00860,Offline,2025-03-11,Bronze,Central
+C00861,Offline,2025-01-27,Bronze,West
+C00862,Online,2024-12-19,Gold,South
+C00863,Online,2025-08-07,Bronze,North
+C00864,Offline,2025-08-04,Bronze,South
+C00865,WeChat Mini Program,2025-02-21,Gold,East
+C00866,Offline,2025-02-23,Gold,Central
+C00867,Online,2025-04-09,Silver,South
+C00868,Offline,2025-06-02,Silver,Central
+C00869,Offline,2025-06-13,Silver,South
+C00870,Online,2025-04-24,Bronze,Central
+C00871,WeChat Mini Program,2025-02-28,Silver,West
+C00872,Offline,2024-12-27,Bronze,West
+C00873,Offline,2025-03-21,Gold,North
+C00874,WeChat Mini Program,2025-02-10,Bronze,West
+C00875,Online,2025-06-29,Bronze,North
+C00876,WeChat Mini Program,2025-05-13,Silver,East
+C00877,Offline,2025-05-13,Bronze,East
+C00878,WeChat Mini Program,2025-08-04,Bronze,South
+C00879,Online,2025-06-05,Silver,South
+C00880,Offline,2025-05-15,Bronze,North
+C00881,Online,2025-06-19,Bronze,North
+C00882,Online,2025-02-27,Bronze,East
+C00883,WeChat Mini Program,2025-04-09,Silver,East
+C00884,Offline,2024-12-02,Gold,Central
+C00885,WeChat Mini Program,2025-07-06,Silver,South
+C00886,Online,2025-08-30,Bronze,Central
+C00887,Offline,2025-08-19,Silver,West
+C00888,WeChat Mini Program,2025-05-11,Platinum,South
+C00889,WeChat Mini Program,2025-06-30,Bronze,East
+C00890,Online,2025-06-02,Platinum,North
+C00891,WeChat Mini Program,2025-05-31,Bronze,West
+C00892,WeChat Mini Program,2025-03-21,Bronze,West
+C00893,WeChat Mini Program,2025-03-26,Bronze,South
+C00894,WeChat Mini Program,2025-07-12,Bronze,South
+C00895,Online,2025-08-13,Silver,South
+C00896,WeChat Mini Program,2025-04-05,Gold,South
+C00897,WeChat Mini Program,2025-02-25,Bronze,West
+C00898,Online,2025-05-04,Bronze,South
+C00899,WeChat Mini Program,2025-03-24,Gold,North
+C00900,Offline,2025-02-01,Silver,East
+C00901,Offline,2025-04-02,Bronze,North
+C00902,Offline,2025-08-25,Silver,South
+C00903,Offline,2024-11-29,Bronze,North
+C00904,Offline,2025-01-13,Gold,West
+C00905,WeChat Mini Program,2025-02-03,Gold,West
+C00906,WeChat Mini Program,2025-06-06,Silver,East
+C00907,Offline,2025-03-22,Bronze,North
+C00908,WeChat Mini Program,2025-05-26,Gold,Central
+C00909,Offline,2025-06-29,Bronze,Central
+C00910,WeChat Mini Program,2025-06-29,Silver,Central
+C00911,Online,2025-01-02,Silver,North
+C00912,WeChat Mini Program,2024-12-04,Gold,West
+C00913,WeChat Mini Program,2025-02-02,Silver,Central
+C00914,Online,2025-06-12,Platinum,North
+C00915,WeChat Mini Program,2025-06-15,Silver,South
+C00916,WeChat Mini Program,2024-12-05,Bronze,West
+C00917,Online,2025-08-09,Bronze,North
+C00918,Online,2025-07-11,Silver,South
+C00919,Online,2025-06-01,Bronze,East
+C00920,Online,2025-05-31,Bronze,North
+C00921,Online,2025-02-02,Bronze,North
+C00922,Offline,2025-07-24,Silver,Central
+C00923,WeChat Mini Program,2025-08-14,Silver,Central
+C00924,WeChat Mini Program,2025-01-03,Bronze,South
+C00925,Online,2025-06-09,Silver,Central
+C00926,Offline,2024-11-24,Bronze,East
+C00927,Offline,2025-03-30,Bronze,North
+C00928,Offline,2024-11-17,Bronze,West
+C00929,WeChat Mini Program,2024-11-23,Silver,West
+C00930,WeChat Mini Program,2025-02-12,Silver,South
+C00931,Online,2025-03-29,Gold,South
+C00932,Online,2025-08-19,Silver,South
+C00933,Offline,2025-07-01,Bronze,East
+C00934,Offline,2025-08-15,Silver,South
+C00935,WeChat Mini Program,2025-07-21,Bronze,East
+C00936,WeChat Mini Program,2025-05-24,Bronze,South
+C00937,WeChat Mini Program,2025-02-15,Silver,North
+C00938,WeChat Mini Program,2025-08-17,Silver,South
+C00939,Offline,2025-05-20,Silver,West
+C00940,Offline,2025-04-24,Gold,Central
+C00941,Offline,2025-03-06,Bronze,West
+C00942,Online,2024-11-10,Bronze,South
+C00943,WeChat Mini Program,2025-02-08,Bronze,South
+C00944,Offline,2025-02-24,Gold,East
+C00945,Offline,2025-03-23,Silver,West
+C00946,WeChat Mini Program,2025-08-28,Bronze,East
+C00947,Offline,2025-05-16,Bronze,East
+C00948,Online,2025-07-13,Silver,North
+C00949,WeChat Mini Program,2025-08-01,Silver,North
+C00950,WeChat Mini Program,2025-06-25,Bronze,South
+C00951,WeChat Mini Program,2025-03-09,Bronze,West
+C00952,WeChat Mini Program,2024-12-04,Silver,South
+C00953,Online,2025-07-10,Bronze,North
+C00954,Offline,2025-05-29,Silver,South
+C00955,Offline,2025-03-11,Bronze,East
+C00956,Offline,2025-07-28,Bronze,East
+C00957,Online,2025-06-06,Platinum,North
+C00958,Offline,2025-01-07,Bronze,North
+C00959,Offline,2024-12-28,Bronze,North
+C00960,WeChat Mini Program,2024-11-22,Gold,East
+C00961,Offline,2025-03-28,Bronze,West
+C00962,WeChat Mini Program,2025-07-01,Bronze,West
+C00963,Online,2025-07-08,Silver,East
+C00964,WeChat Mini Program,2025-08-14,Silver,West
+C00965,Online,2025-07-16,Bronze,Central
+C00966,Online,2025-08-23,Gold,Central
+C00967,Offline,2025-05-31,Bronze,Central
+C00968,WeChat Mini Program,2025-01-19,Bronze,South
+C00969,WeChat Mini Program,2025-05-03,Bronze,Central
+C00970,Online,2025-05-18,Bronze,West
+C00971,WeChat Mini Program,2025-02-18,Bronze,Central
+C00972,WeChat Mini Program,2025-08-16,Bronze,West
+C00973,Offline,2025-06-16,Silver,Central
+C00974,Offline,2024-12-04,Bronze,South
+C00975,Online,2025-06-13,Bronze,West
+C00976,WeChat Mini Program,2025-06-23,Bronze,West
+C00977,WeChat Mini Program,2025-04-01,Silver,West
+C00978,Offline,2024-11-09,Bronze,East
+C00979,Online,2025-08-09,Silver,Central
+C00980,Offline,2025-01-20,Platinum,South
+C00981,WeChat Mini Program,2025-03-19,Bronze,South
+C00982,Offline,2025-04-12,Silver,North
+C00983,Online,2025-05-12,Silver,Central
+C00984,Offline,2025-05-10,Bronze,South
+C00985,Offline,2025-08-04,Silver,Central
+C00986,WeChat Mini Program,2025-02-19,Bronze,East
+C00987,WeChat Mini Program,2024-11-08,Silver,South
+C00988,WeChat Mini Program,2025-06-01,Gold,West
+C00989,Online,2024-12-21,Bronze,South
+C00990,WeChat Mini Program,2025-02-18,Gold,West
+C00991,WeChat Mini Program,2025-08-27,Bronze,East
+C00992,Online,2025-05-18,Bronze,South
+C00993,WeChat Mini Program,2025-05-05,Silver,South
+C00994,Offline,2024-12-04,Bronze,West
+C00995,Online,2025-02-08,Bronze,West
+C00996,Offline,2025-08-27,Bronze,North
+C00997,Offline,2024-12-16,Bronze,Central
+C00998,Offline,2025-05-08,Gold,East
+C00999,WeChat Mini Program,2024-12-15,Platinum,South
